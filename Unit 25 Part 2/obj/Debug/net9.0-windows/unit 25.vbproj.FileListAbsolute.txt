@@ -1,0 +1,10 @@
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit_25.Form1.resources
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit_25.Form2.resources
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit_25.Form3.resources
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit_25.Form4.resources
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit_25.Form5.resources
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit 25.vbproj.GenerateResource.cache
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit 25.AssemblyInfoInputs.cache
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit 25.AssemblyInfo.vb
+C:\Users\jwrsh\source\repos\unit 25\unit 25\obj\Debug\net9.0-windows\unit 25.vbproj.CoreCompileInputs.cache
